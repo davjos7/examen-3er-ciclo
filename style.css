@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+.bg-light {
+    background-color: #137059!important;
+}
+#menu{
+    padding-left: 45%;
+}
+li {
+    border: 3px inset red;
+    margin-right: 10%;
+    padding-left: 18%;
+    padding-right: 18%;
+    border-radius: 10px;
+    
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+#ultimomenu{
+    margin-left: 60%;
+}
+.logito{
+    margin-left: 100%;
+}
+p{
+    text-align: center;
+}
+h1{
+    font-family: 'Rubik Moonrocks', cursive;
+    margin-top: 30%;
+    text-align: left ;
+    font-size: 50px;
+    text-shadow: 2px 2px #ff0000;
+}
+p{
+    text-align: left;
+    font-family: 'Teko', sans-serif;
+    font-size: 23px;
+}
+button{
+    padding-left: 10%;
+    padding-right: 10%;
+    border-radius: 10px;
+    margin-top: 10%;
+    background-color: aqua;
+    width: 200px;
+    height: 55px;
+    box-shadow: 0px 0px 20px 10px yellowgreen;
+}
+.btn{
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+}   
+
+.cr7{
+   margin-left: 40%;
+}
